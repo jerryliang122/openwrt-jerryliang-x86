@@ -10,8 +10,8 @@
 - DOMAIN-SUFFIX,steamcommunity.com,Proxy
 - DOMAIN-SUFFIX,java.com,Proxy
 - DOMAIN-SUFFIX,coolapk.com,DIRECT
-- DOMAIN-SUFFIX,steam-chat.com,Proxy
-- DOMAIN-SUFFIX,steamstatic.com,Proxy
+- DOMAIN-SUFFIX,discordapp.com,Proxy
+- DOMAIN-SUFFIX,bintray.com,Proxy
 ##排序在上的规则优先生效,如添加（去除规则前的#号）：
 ##IP段：192.168.1.2-192.168.1.200 直连
 ##- SRC-IP-CIDR,192.168.1.2/31,DIRECT
