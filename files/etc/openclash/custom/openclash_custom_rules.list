@@ -14,6 +14,9 @@
 - DOMAIN-SUFFIX,bintray.com,Proxy
 - DOMAIN-SUFFIX,curseforge.com,Proxy
 - DOMAIN-SUFFIX,s3.amazonaws.com,Proxy
+- DOMAIN-SUFFIX,adfoc.us,Proxy
+- DOMAIN-SUFFIX,qq.com,DIRECT
+- DOMAIN-SUFFIX,qt.io,Proxy
 ##排序在上的规则优先生效,如添加（去除规则前的#号）：
 ##IP段：192.168.1.2-192.168.1.200 直连
 ##- SRC-IP-CIDR,192.168.1.2/31,DIRECT
