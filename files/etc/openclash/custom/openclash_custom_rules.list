@@ -29,6 +29,7 @@
 - DOMAIN-SUFFIX,origin.com,Proxy
 - DOMAIN-SUFFIX,mediafire.com,Proxy
 - DOMAIN-SUFFIX,nvidia.cn,DIRECT
+- DOMAIN-SUFFIX,bityun.co,Proxy
 ##排序在上的规则优先生效,如添加（去除规则前的#号）：
 ##IP段：192.168.1.2-192.168.1.200 直连
 ##- SRC-IP-CIDR,192.168.1.2/31,DIRECT
