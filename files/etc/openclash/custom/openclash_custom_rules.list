@@ -34,6 +34,7 @@
 - DOMAIN-SUFFIX,ubisoft.com,Proxy
 - DOMAIN-SUFFIX,letsencrypt.org,Proxy
 - DOMAIN-SUFFIX,videolan.org,Proxy
+- DOMAIN-SUFFIX,sourceforge.net,Proxy
 ##排序在上的规则优先生效,如添加（去除规则前的#号）：
 ##IP段：192.168.1.2-192.168.1.200 直连
 ##- SRC-IP-CIDR,192.168.1.2/31,DIRECT
